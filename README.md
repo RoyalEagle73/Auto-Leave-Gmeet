@@ -26,10 +26,6 @@ Javascript
 
 ----
 
-<p>
-	<a href="https://github.com/Cyberkid2311">
-		<img alt="bala-image" src="https://avatars.githubusercontent.com/u/46487087?v=4" style="border-radius: 50%; height: 50px">
-	</a>
-</p>
+[Balasubramanian R](https://github.com/Cyberkid2311)
 
 ⭐ the repo, if it helped you :)
