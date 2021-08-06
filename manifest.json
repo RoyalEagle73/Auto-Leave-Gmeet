@@ -6,12 +6,12 @@
 	},
 	"name": "auto-leave-gmeet",
 	"description": "Leaves google meet automatically",
-	"version" : "1.0",
+	"version" : "1.0.1",
 
 	"content_scripts" : [
 		{
 			"matches": [
-					"*://meet.google.com/*"
+					"*://meet.google.com/*-*-*"
 				],
 			"js":["script.js"],
 			"run_at": "document_end"
