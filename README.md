@@ -8,15 +8,14 @@ A chrome extension to leave Google Meet automatically when you're the last perso
 
 ---
 
-1. Download release files from release section.
+- Download release files from release section.
+	`https://github.com/RoyalEagle73/Auto-Leave-Gmeet`
 
-2. Open Google-Chrome and goto three dots menu and goto 'more tools'.
+- Go to [chrome://extensions/](chrome://extensions/) and check the box for Developer mode in the top right.
 
-3. In 'more tools', goto 'Extensions' and enable the 'Devolper mode' toggle.
+- Now, click on 'load Unpacked' and select the downloaded folder, and now you're good to go.
 
-4. Now, click on 'load Unpacked' and select the downloaded folder, and now you're good to go.
-
-5. Voila, enjoy the extension now.
+- Voila, enjoy the extension now.
 
 ## Languge Used
 ---
