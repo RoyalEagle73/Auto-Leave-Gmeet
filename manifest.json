@@ -1,0 +1,25 @@
+{
+	"manifest_version" : 2,
+
+	"icons":{
+		"128": "logo.png"
+	},
+	"name": "auto-leave-gmeet",
+	"description": "Leaves google meet automatically",
+	"version" : "1.0",
+
+	"content_scripts" : [
+		{
+			"matches": [
+					"*://meet.google.com/*"
+				],
+			"js":["script.js"],
+			"run_at": "document_end"
+		}
+	],
+
+	"permissions":[
+		"tabs",
+		"activeTab"
+	]
+}
