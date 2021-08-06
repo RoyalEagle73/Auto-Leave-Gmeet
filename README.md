@@ -4,7 +4,7 @@
 
 A chrome extension to leave Google Meet automatically when you're the last person in meeting.
 
-## How to use
+## How to install
 
 ---
 
@@ -19,6 +19,13 @@ A chrome extension to leave Google Meet automatically when you're the last perso
 - Now, click on 'load Unpacked' and select the downloaded folder, and now you're good to go.
 
 - Voila, enjoy the extension now.
+
+## How to use
+
+When you join meet, the extension will ask permissions with a prompt as below. Proceed with Ok if you want extension to make you leave meeting automatically or Press Cancel and extension will not bug you anymore.
+
+![image](https://user-images.githubusercontent.com/34307370/128574378-434210fc-db82-4b14-b359-b847cb2dda9c.png)
+
 
 ## Languge Used
 ---
