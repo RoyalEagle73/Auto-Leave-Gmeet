@@ -10,7 +10,7 @@ A chrome extension to leave Google Meet automatically when you're the last perso
 
 - Download release files from release section or following link.
 
-	[Auto Leave Gmeet - 1.0](https://github.com/RoyalEagle73/Auto-Leave-Gmeet/releases/download/1.0/auto_leave_gmeet-1.0.zip)
+	[auto_leave_gmeet.-.v1.0.1.zip](https://github.com/RoyalEagle73/Auto-Leave-Gmeet/releases/download/1.0.1/auto_leave_gmeet.-.v1.0.1.zip)
 
 - Unzip the downloaded zip file.
 
