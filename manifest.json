@@ -17,9 +17,12 @@
 			"run_at": "document_end"
 		}
 	],
-
+	"browser_action":{
+		"default_popup": "index.html"
+	},
 	"permissions":[
 		"tabs",
-		"activeTab"
+		"activeTab",
+		"storage"
 	]
 }
